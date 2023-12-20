@@ -9,13 +9,13 @@ This repository will then be where I'll share my practices along my studies. I a
 In the first exercise of the book we are asked to make a given table look better in different ways. These are the ways I've made them. I found out that Plotly enables the use of basic html language, which was a nice surprise and my first contact with the language!
 
 ## The table
-![% Table](colored_table.jpeg)
+![% Table](colored_table(1).jpeg)
 ## % Accounts vs Revenue: First Graph
-![% Accounts vs Revenue: First Graph](stacked_bar_chart.jpeg)
+![% Accounts vs Revenue: First Graph](stacked_bar_chart(1).jpeg)
 ## % Accounts vs Revenue: Second Graph
-![% Accounts vs Revenue: Second Graph](side_bar_chart.png)
+![% Accounts vs Revenue: Second Graph](side_bar_chart(1).png)
 ## % Accounts vs Revenue: Third Graph
-![% Accounts vs Revenue: Third Graph](horizontal_stacked_bar_chart.png)
+![% Accounts vs Revenue: Third Graph](horizontal_stacked_bar_chart(1).png)
 ## % Accounts vs Revenue: SlopeGraph
-![% Accounts vs Revenue: Slopegraph](slopegraph.jpeg)
+![% Accounts vs Revenue: Slopegraph](slopegraph(1).jpeg)
 
