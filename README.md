@@ -17,5 +17,5 @@ In the first exercise of the book we are asked to make a given table look better
 ## % Accounts vs Revenue: Third Graph
 ![% Accounts vs Revenue: Third Graph](horizontal_stacked_bar_chart.png)
 ## % Accounts vs Revenue: SlopeGraph
-![% Accounts vs Revenue: Slopegraph](slopegraph.png)
+![% Accounts vs Revenue: Slopegraph](slopegraph.jpeg)
 
