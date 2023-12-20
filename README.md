@@ -1,6 +1,6 @@
 # storytelling-with-data
 In this repository I am sharing my studies of storytelling with data, based on the book by Cole Nussbaumer: Storytelling with data: Let's Practice!.
-Storytelling with data is a great book to get the hold on how to methodically and creatively analyze your data and communicate what is truly important to your audience. It encourages you to be concise, creative and straight to the point, no clutters nor pie charts. 
+Storytelling with data is filled with teachings, tips and behind the scenes rationales of how to get the hold on methodically and creatively analysing your data and communicating what is truly important to your audience. It encourages you to be concise, creative and straight to the point, no clutters nor pie charts. 
 
 This repository will then be where I'll share my practices along my studies. I am using Plotly for the moment, but will possibly try out new tools to generate visuals. PowerBI is right ahead in my list.  
 
